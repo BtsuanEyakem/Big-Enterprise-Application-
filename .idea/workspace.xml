@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b1ed19c-c966-4a5e-80b7-0113d1382961" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven-publish.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Course-Attendence-System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/AdminCourseOfferingDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/AttendanceRecordDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/CourseOfferingDetailsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/CourseRegistrationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/CoursseOfferingSessionDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/FacultyDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/LocationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/SessionDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/StudentCourseOfferingDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Adaptor/StudentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Integration/Scheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/SchoolApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/AttendanceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/AttendanceServiceImplm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/LocationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/LocationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/SessionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/Service/SessionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/config/OpenAPIConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/AttendanceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/CourseOfferingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/CourseRegistrationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/LocationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/SessionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/AttendanceRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/AuditData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/CourseOffering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/CourseRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/DayTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Faculty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/FacultyHobby.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/GenderType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/LocationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Session.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/SystemAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/domain/sessionTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/AttendanceRecordRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/CourseOfferingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/CourseRegistrationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/CourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/FacultyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/LocationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/LocationTypeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/SessionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/CourseOfferingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/CourseOfferingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/CourseRegistrationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/CourseRegistrationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/ICourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/com/chucky/school/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/java/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/SchoolApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/AttendanceControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/CourseControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/CourseOfferingControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/CourseRegistrationControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/LocationControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/controller/StudentControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/repository/CourseRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/AttendanceServiceImplmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/CourseOfferingServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/CourseRegistrationServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/CourseServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/LocationServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/java/com/chucky/school/service/StudentServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course Registration/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Email Service/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2iLYgCV19PfndYIGcyHpdpxaM81" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chucky.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1ed19c-c966-4a5e-80b7-0113d1382961" name="Changes" comment="" />
+      <created>1719271434610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719271434610</updated>
+      <workItem from="1719271435730" duration="517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
